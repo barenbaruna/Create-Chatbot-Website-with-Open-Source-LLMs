@@ -1,8 +1,6 @@
 # Create Your Own Chatbot Website with Open Source LLMs
 
-<div align="center">
-  <img src="https://t4.ftcdn.net/jpg/04/46/38/69/360_F_446386956_DiOrdcxDFWKWFuzVUCugstxz0zOGMHnA.jpg" width="200px"/>
-</div>
+
 
 ## Introduction
 
@@ -19,8 +17,10 @@ The process of interaction between the user and the chatbot involves:
 3. Generating Response: Using its understanding, the LLM generates a response, which is then formatted and sent back to the user by the transformer.
 4. Iterative Conversation: This process repeats as the conversation progresses, with the chatbot continually processing new inputs and generating relevant responses.
 
-### Hugging Face ![Hugging Face](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png)
-
+### Hugging Face
+<div align="center">
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="200px"/>
+</div>
 
 Hugging Face is an organization specializing in natural language processing (NLP) and AI, offering a variety of tools and resources to support NLP tasks. We'll be utilizing their Python library transformers for this project.
 
