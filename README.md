@@ -1,4 +1,12 @@
 # Create Your Own Chatbot Website with Open Source LLMs
+
+# Author: Cognitive Class
+
+## 🚀 Mentee Information
+| Name             | Program         | Mentor                  |
+|------------------|----------------|------------------------|
+| Baren Baruna Harahap | MSIB Batch 6 (IBM Advance AI) | Ichsan Takwa       |
+
 <div align="center">
   <img src="https://t4.ftcdn.net/jpg/04/46/38/69/360_F_446386956_DiOrdcxDFWKWFuzVUCugstxz0zOGMHnA.jpg" width="200px"/>
 </div>
@@ -25,16 +33,15 @@ The process of interaction between the user and the chatbot involves:
 
 Hugging Face is an organization specializing in natural language processing (NLP) and AI, offering a variety of tools and resources to support NLP tasks. We'll be utilizing their Python library transformers for this project.
 
-## Learning Outcomes
+## Project Outcomes
 
-By the end of this project, you will:
-
+By the end of this project, we will:
 - Understand the main components of a chatbot.
 - Learn about transformers and LLMs.
-- Gain insights into how to choose an LLM for your application.
+- Gain insights into how to choose an LLM for our application.
 - Understand the working of a transformer and tokenization.
-- Be able to program your own simple chatbot in Python.
-- Integrate your chatbot into a web interface.
+- Be able to program oour own simple chatbot in Python.
+- Integrate our chatbot into a web interface.
 - Communicate with the backend using a webpage.
 
 ## How to Run This Project?
@@ -55,4 +62,13 @@ If running in the Skills Network Cloud:
 
 ![Steps for running in the Skills Network Cloud](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX04ESEN/images/lab2-12.png)
 
-Let's get started with implementing your own chatbot!
+### Let's get started with implementing your own chatbot!
+
+## 📧 Support
+
+For any questions or issues regarding this project, feel free to contact me at [barenbarunaharahap@gmail.com](mailto:barenbarunaharahap@gmail.com).
+
+## 🙏 Acknowledgements
+
+Special thanks to IBM Advance AI @Infinite Learning for providing valuable insights and guidance throughout this course.
+
