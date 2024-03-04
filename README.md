@@ -1,8 +1,9 @@
 # Create Your Own Chatbot Website with Open Source LLMs
+
 <div align="center">
-  <img src="![image](https://github.com/barenbaruna/Create-Chatbot-Website-with-Open-Source-LLMs/assets/117333101/67e8bb9d-2bef-4c7a-ac74-358d25ed2a42)
-" width="200px"/>
+  <img src="https://img.icons8.com/ios/452/chatbot.png" width="200px"/>
 </div>
+
 ## Introduction
 
 Welcome to "Create Your Own Chatbot Website with Open Source LLMs" project! In this project, you'll learn how to create a simple chatbot using open-source Language Model Libraries (LLMs) with Python and Hugging Face. By the end of this lab, you will understand the main components of a chatbot, how transformers and LLMs work together, and how to integrate your chatbot into a web interface.
