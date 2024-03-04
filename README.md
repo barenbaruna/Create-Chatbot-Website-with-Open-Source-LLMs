@@ -1,7 +1,7 @@
 # Create Your Own Chatbot Website with Open Source LLMs
 
 <div align="center">
-  <img src="https://www.cio.com/wp-content/uploads/2023/08/chatbot_ai_machine-learning_emerging-tech-100778305-orig.jpg?quality=50&strip=all" width="200px"/>
+  <img src="https://t4.ftcdn.net/jpg/04/46/38/69/360_F_446386956_DiOrdcxDFWKWFuzVUCugstxz0zOGMHnA.jpg" width="200px"/>
 </div>
 
 ## Introduction
