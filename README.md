@@ -19,7 +19,7 @@ The process of interaction between the user and the chatbot involves:
 3. Generating Response: Using its understanding, the LLM generates a response, which is then formatted and sent back to the user by the transformer.
 4. Iterative Conversation: This process repeats as the conversation progresses, with the chatbot continually processing new inputs and generating relevant responses.
 
-### Hugging Face https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png
+### Hugging Face [Hugging Face](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png)
 
 
 Hugging Face is an organization specializing in natural language processing (NLP) and AI, offering a variety of tools and resources to support NLP tasks. We'll be utilizing their Python library transformers for this project.
