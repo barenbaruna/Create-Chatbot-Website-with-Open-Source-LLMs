@@ -6,10 +6,9 @@
 ## 📝 Author: Cognitive Class
 
 ## 🚀 Mentee Information
-| Name                | Program                          | Mentor          |
-|---------------------|----------------------------------|-----------------|
-| Baren Baruna Harahap | MSIB Batch 6 (IBM Advance AI)   | Ichsan Takwa    |
-
+- **Name:** Baren Baruna Harahap
+- **Program:** MSIB Batch 6 (IBM Advance AI)
+- **Mentor:** Ichsan Takwa
 
 ## Introduction
 
