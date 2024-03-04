@@ -1,6 +1,7 @@
 # Create Your Own Chatbot Website with Open Source LLMs
-
-
+<div align="center">
+  <img src="https://t4.ftcdn.net/jpg/04/46/38/69/360_F_446386956_DiOrdcxDFWKWFuzVUCugstxz0zOGMHnA.jpg" width="200px"/>
+</div>
 
 ## Introduction
 
