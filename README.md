@@ -1,11 +1,11 @@
 # Create Your Own Chatbot Website with Open Source LLMs
 
-# Author: Cognitive Class
+## 📝 Author: Cognitive Class
 
 ## 🚀 Mentee Information
-| Name             | Program         | Mentor                  |
-|------------------|----------------|------------------------|
-| Baren Baruna Harahap | MSIB Batch 6 (IBM Advance AI) | Ichsan Takwa       |
+| Name                | Program                          | Mentor          |
+|---------------------|----------------------------------|-----------------|
+| Baren Baruna Harahap | MSIB Batch 6 (IBM Advance AI)   | Ichsan Takwa    |
 
 <div align="center">
   <img src="https://t4.ftcdn.net/jpg/04/46/38/69/360_F_446386956_DiOrdcxDFWKWFuzVUCugstxz0zOGMHnA.jpg" width="200px"/>
