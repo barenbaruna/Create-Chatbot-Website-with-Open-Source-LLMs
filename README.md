@@ -16,21 +16,21 @@ Welcome to "Create Your Own Chatbot Website with Open Source LLMs" project! In t
 
 ### How does a chatbot work?
 
-A chatbot is a computer program that takes a text input and returns a corresponding text output. It utilizes a special kind of computer program called a transformer, which acts as its brain. Inside this brain lies a language model (LLM) that helps the chatbot understand and generate human-like responses by analyzing patterns from a large dataset of text.
+A **chatbot** is a computer program that takes a text input and returns a corresponding text output. It utilizes a special kind of computer program called a transformer, which acts as its brain. Inside this brain lies a language model (LLM) that helps the chatbot understand and generate human-like responses by analyzing patterns from a large dataset of text.
 
 The process of interaction between the user and the chatbot involves:
 
-1. Input Processing: The transformer breaks down the user's input into smaller parts called tokens, making it understandable for the chatbot.
-2. Understanding Context: These tokens are then passed to the LLM, which interprets the context of the message based on its training on extensive text data.
-3. Generating Response: Using its understanding, the LLM generates a response, which is then formatted and sent back to the user by the transformer.
-4. Iterative Conversation: This process repeats as the conversation progresses, with the chatbot continually processing new inputs and generating relevant responses.
+1. **Input Processing**: The transformer breaks down the user's input into smaller parts called tokens, making it understandable for the chatbot.
+2. **Understanding Context**: These tokens are then passed to the LLM, which interprets the context of the message based on its training on extensive text data.
+3. **Generating Response**: Using its understanding, the LLM generates a response, which is then formatted and sent back to the user by the transformer.
+4. **Iterative Conversation**: This process repeats as the conversation progresses, with the chatbot continually processing new inputs and generating relevant responses.
 
 ### Hugging Face
 <div align="center">
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="200px"/>
 </div>
 
-Hugging Face is an organization specializing in natural language processing (NLP) and AI, offering a variety of tools and resources to support NLP tasks. We'll be utilizing their Python library transformers for this project.
+**Hugging Face** is an organization specializing in natural language processing (NLP) and AI, offering a variety of tools and resources to support NLP tasks. We'll be utilizing their Python library transformers for this project.
 
 ## Project Outcomes
 
