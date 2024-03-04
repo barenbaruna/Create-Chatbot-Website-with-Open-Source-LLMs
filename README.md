@@ -61,6 +61,9 @@ If running in the Skills Network Cloud:
 
 ![Steps for running in the Skills Network Cloud](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX04ESEN/images/lab2-12.png)
 
+![Example](https://media.discordapp.net/attachments/1214121296347140098/1214121920316837959/Screenshot_2024-03-04_111250.png?ex=65f7f627&is=65e58127&hm=41c64d1f376bcb81fa3993672b5809c9863122ee176195cacab14072b554d867&=&format=webp&quality=lossless)
+
+
 ### Let's get started with implementing your own chatbot!
 
 ## 📧 Support
