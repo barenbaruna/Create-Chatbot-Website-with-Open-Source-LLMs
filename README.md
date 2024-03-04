@@ -1,5 +1,5 @@
 # Create Your Own Chatbot Website with Open Source LLMs
-![Chatbot Icon](![image](https://github.com/barenbaruna/Create-Chatbot-Website-with-Open-Source-LLMs/assets/117333101/af6f9777-4e92-43e9-8c87-9250278e5521)
+![Chatbot Icon](https://icons8.com/icon/LRVhfNkAlDDd/control-buttons)
 )
 ## Introduction
 
