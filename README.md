@@ -47,4 +47,6 @@ If running in the Skills Network Cloud:
 3. Put `5000` as your Application Port.
 4. Launch the application in a new browser tab.
 
+![Steps for running in the Skills Network Cloud](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX04ESEN/images/lab2-12.png)
+
 Let's get started with implementing your own chatbot!
