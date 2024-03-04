@@ -1,6 +1,7 @@
 # Create Your Own Chatbot Website with Open Source LLMs
 <div align="center">
-  <img src="https://img.icons8.com/ios/452/chatbot.png" width="200px"/>
+  <img src="![image](https://github.com/barenbaruna/Create-Chatbot-Website-with-Open-Source-LLMs/assets/117333101/67e8bb9d-2bef-4c7a-ac74-358d25ed2a42)
+" width="200px"/>
 </div>
 ## Introduction
 
